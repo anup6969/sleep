@@ -1,0 +1,5 @@
+{
+  "name": "SleepLog AI",
+  "description": "A privacy-first, local-storage based sleep tracker with optional Gemini AI insights to analyze your sleep patterns.",
+  "requestFramePermissions": []
+}
